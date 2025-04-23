@@ -1,10 +1,4 @@
-Gotcha! Here's **exactly what you should copy and paste** into your GitHub `README.md` to explain your **Multimodal RAG Assistant** clearly and professionally:
 
----
-
-### 📄 Copy and Paste this:
-
-```markdown
 # 🌾 Multimodal RAG Assistant
 
 This project is a lightweight web-based **Retrieval-Augmented Generation (RAG)** assistant built with **FastAPI**, **LangChain**, and **HuggingFace Transformers**. Users can upload PDFs and ask questions, and the app answers using content from the uploaded documents.
