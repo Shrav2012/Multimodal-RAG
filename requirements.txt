@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+transformers
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+python-jose  # more specific than just "jose"
