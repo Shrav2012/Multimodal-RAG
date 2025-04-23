@@ -8,3 +8,4 @@ langchain-community
 faiss-cpu
 sentence-transformers
 python-jose  # more specific than just "jose"
+langchain-huggingface
