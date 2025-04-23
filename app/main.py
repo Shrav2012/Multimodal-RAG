@@ -3,8 +3,8 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 import uvicorn
-from rag_engine import ingest_document, query_rag
-from auth import authenticate_user, create_access_token, get_current_user
+from app.rag_engine import ingest_document, query_rag
+from app.auth import authenticate_user, create_access_token, get_current_user
 
 app = FastAPI()
 
